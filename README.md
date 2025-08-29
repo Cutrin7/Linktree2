@@ -3,6 +3,7 @@
 Uma versão personalizada de Linktree, desenvolvida em HTML e CSS, para reunir links profissionais em um único lugar.
 O projeto inclui uma página principal com links para portfólio, LinkedIn e GitHub, além de uma página de contato com formulário funcional.
 
+
 🚀 Tecnologias utilizadas
 
 HTML5
@@ -10,6 +11,7 @@ HTML5
 CSS3
 
 Google Fonts (Inter)
+
 
 🎨 Funcionalidades
 
@@ -23,6 +25,7 @@ Design responsivo e moderno.
 
 Tema escuro com destaque em roxo.
 
+
 📂 Estrutura do projeto
 Linktree2/
 │── index.html         # Página principal
@@ -31,16 +34,7 @@ Linktree2/
 │    └── style.css     # Estilos principais
 │── assets/            # Imagens e recursos
 
-📸 Demonstração
-
-(adicione aqui prints do projeto ou um gif mostrando a navegação)
-
-🔗 Acesse o projeto
-
-👉 Linktree2 Online
- (caso publique no GitHub Pages ou Vercel)
 
 👨‍💻 Autor
 
-Desenvolvido por Vitor Cutrin
-.
+Desenvolvido por Vitor Cutrin.
